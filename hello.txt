@@ -1,1 +1,2 @@
-hello thias is a company practice
+hello this is a company practice
+imn github
